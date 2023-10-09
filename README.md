@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusko97" alt="tusko97" /></a> </p>
 
-- 🔭 I’m currently working on [a Movieshop to find your favorite films](https://main--glittery-churros-16eb39.netlify.app/)
+- 🔭 I’m currently working on [a beauty shop catalogue site](https://the-nail-spot.netlify.app/)
 
 - 🌱 I’m currently learning **PHP, Node.js and Typescript**
 
 - 👯 I’m looking to collaborate on [Farmart, an e-commerce platform for farmers](https://farmart-delta.vercel.app/)
-
-- 🤝 I’m looking for help with [Mimik-events, an event booking platform.](https://events-manager-rose.vercel.app/)
 
 - 💬 Ask me about **react, javascript, ruby on rails**
 
