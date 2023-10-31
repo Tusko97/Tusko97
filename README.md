@@ -1,6 +1,6 @@
 <h1 align="center">Howdie 👋, I'm Mark Mutuku</h1>
 <h3 align="center">A Full stack developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1500576992153-0271099def59?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2F5aW5nJTIwaGVsbG98ZW58MHx8MHx8fDA%3D")>
+<img align="center" alt="Coding" width="400" src="https://images.unsplash.com/photo-1500576992153-0271099def59?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2F5aW5nJTIwaGVsbG98ZW58MHx8MHx8fDA%3D")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusko97&label=Profile%20views&color=0e75b6&style=flat" alt="tusko97" /> </p>
 
